@@ -109,8 +109,8 @@
                     <li><strong>Number of rings: </strong>18</li>
                     <li><strong>SHA256 hash to float: </strong>Pass each username through a SHA256 hash then convert that hash to a float</li>
                     <li><strong>Direction of spiral: </strong>Based upon the arity of the first digit of the hashed number</li>
-                    <li><strong>Starting angle: </strong>Circle number (center is 0) multiplied by the modulo of the has by 359. </li>
-                    <li><strong>Ending angle offset: </strong>Circle number (center is 0) multiplied by the modulo of the has by 353.</li>
+                    <li><strong>Starting angle: </strong>Circle number (center is 0) multiplied by the modulo of the hash by 353. </li>
+                    <li><strong>Ending angle offset: </strong>Circle number (center is 0) multiplied by the modulo of the hash by 359.</li>
                     <li><strong>Direction of offset: </strong>Based upon the arity of the first digit of the hashed number</li>
                     <li><strong>Circle color: </strong>HSL of hashed number modulo 25 times the circle number</li>
                     

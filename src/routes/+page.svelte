@@ -98,7 +98,7 @@
                 <ul class="list-disc list-inside">   
                     <li><strong>Uniqueness: </strong>Each username should create a unique identicon</li>
                     <li><strong>Visually pleasing: </strong>Each identicon should be pleasing to look at and not strain the eyes</li>
-                    <li><strong>Physical inspiration: </strong>Similar to a fingerprint, the identicon should look semi-organic</li>
+                    <li><strong>Physical inspiration: </strong>The identicon should look semi-organic and similar to a fingerprint</li>
                 </ul>
             </div>
 

@@ -94,7 +94,7 @@
 
             <div>
 
-                <h2 class="text-lg font-bold">Desired Outcome</h2>
+                <h2 class="text-lg font-bold">Desired outcome</h2>
                 <ul class="list-disc list-inside">   
                     <li><strong>Uniqueness: </strong>Each username should create a unique identicon</li>
                     <li><strong>Visually pleasing: </strong>Each identicon should be pleasing to look at and not strain the eyes</li>

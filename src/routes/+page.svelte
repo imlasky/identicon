@@ -104,7 +104,7 @@
 
             <div>
 
-                <h2 class="text-lg font-bold">How properties are generated (total num of combinations: 114,054,300)</h2>
+                <h2 class="text-lg font-bold">How properties are generated</h2>
                 <ul class="list-disc list-inside">   
                     <li><strong>Number of rings: </strong>18</li>
                     <li><strong>SHA256 hash to float: </strong>Pass each username through a SHA256 hash then convert that hash to a float</li>
